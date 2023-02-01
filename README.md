@@ -67,7 +67,7 @@
 
 <p align="center"><img src="screenshots\power_bi_dashboard.png"/></p>
 
-### También puedes descargar el archivo .pbix para Power BI [aquí](https://github.com/cristiancampero/PruebaDashboard/blob/main/files/Ventas_de_Adidas.pbix)
+### También puedes descargar el archivo .pbix para Power BI [aquí](https://github.com/cristiancampero/Ventas-Adidas/blob/main/files/Ventas_de_Adidas.pbix)
 
 ---
 
@@ -75,4 +75,4 @@
 
 ## Acerca del Dataset
 
-### Puedes descargar el dataset utilizado para este proyecto [aquí](https://github.com/cristiancampero/PruebaDashboard/blob/main/files/Adidas_Sales.xlsx)
+### Puedes descargar el dataset utilizado para este proyecto [aquí](https://github.com/cristiancampero/Ventas-Adidas/blob/main/files/Adidas_Sales.xlsx)
